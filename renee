@@ -1,0 +1,9 @@
+#/user/bin/python
+#Program Name:FirstName_LastName
+# Author: Renee Loving 
+# Date: August 22, 2017
+firstname =raw_input("Please enter your first name")
+lastname = raw_input("Please enter your last name")
+         print "Hello"+ firstname + lastname
+         print "Your First name is " + str(len(firstname)) + " Letter Long."
+         print " Your Last name is " + str(len(lastname) + " Letter long "
